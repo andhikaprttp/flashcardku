@@ -28,6 +28,6 @@ cd flashcardku
 and preview ``index.html`` with browser or open in text editor
 
 #### 🤐 Or with ZIP
-Cliks [this](download.md) for downloads
+Cliks [this](https://github.com/andhikaprttp/flashcardku/archive/refs/heads/main.zip) for downloads
 
 🙏 Thanks you , keep learning 🌱
